@@ -1,1 +1,0 @@
-mvn exec:java -Dexec.mainClass="com.makerstudios.aud.downloadfromemail" -Dexec.args="0" -Dexec.cleanupDaemonThreads="false"
